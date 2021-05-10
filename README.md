@@ -5,3 +5,5 @@
 ===========
 [두 가지 가치에 대한 이야기](https://github.com/HwangWoonChun/CleanArchitecture/blob/main/clean/clean_02.md)
 ===========
+[페러다임 개요](https://github.com/HwangWoonChun/CleanArchitecture/blob/main/clean/clean_02.md)
+===========
