@@ -21,7 +21,7 @@
 
     * 일반적인 프로그래밍, 제어 흐름이 Top-Down
 
-     <img src = "https://user-images.githubusercontent.com/17817719/64397753-3c341580-d09d-11e9-8146-51d7ff241682.png">
+      <img src = "https://user-images.githubusercontent.com/17817719/64397753-3c341580-d09d-11e9-8146-51d7ff241682.png">
 
     * 다형성이 끼어 들면서 제어 흐름의 방향이 바뀌었다.
-     <img src = "https://user-images.githubusercontent.com/17817719/64397754-3c341580-d09d-11e9-84ec-8be60ad9c031.png">
+      <img src = "https://user-images.githubusercontent.com/17817719/64397754-3c341580-d09d-11e9-84ec-8be60ad9c031.png">
