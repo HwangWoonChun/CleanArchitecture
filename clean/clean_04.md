@@ -20,7 +20,7 @@
   * OO 언어는 다형성을 이용하여 전체 시스템의 모든 소스 코드 의존성에 대한 절대적인 제어 권한을 획득 할 수 있는 언어이다. 이것을 이용하여 독립적인 모듈을 개발하고 배포 할 수 있다.
 
     * 일반적인 프로그래밍, 제어 흐름이 Top-Down
-    <img src = "https://user-images.githubusercontent.com/17817719/64397753-3c341580-d09d-11e9-8146-51d7ff241682.png">
+      <img src = "https://user-images.githubusercontent.com/17817719/64397753-3c341580-d09d-11e9-8146-51d7ff241682.png">
 
     * 다형성이 끼어 들면서 제어 흐름의 방향이 바뀌었다.
-    <img src = "https://user-images.githubusercontent.com/17817719/64397754-3c341580-d09d-11e9-84ec-8be60ad9c031.png">
+      <img src = "https://user-images.githubusercontent.com/17817719/64397754-3c341580-d09d-11e9-84ec-8be60ad9c031.png">
