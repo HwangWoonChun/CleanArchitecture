@@ -11,3 +11,5 @@
 ===========
 [함수형 프로그래밍](https://github.com/HwangWoonChun/CleanArchitecture/blob/main/clean/clean_05.md)
 ===========
+[설계원칙](https://github.com/HwangWoonChun/CleanArchitecture/blob/main/clean/clean_06.md)
+===========
