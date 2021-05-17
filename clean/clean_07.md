@@ -60,34 +60,34 @@
     
    * 퍼사드 패턴을 이용 : 복잡한 클래스 시스템에서 간단한 인터페이스를 제공하는 구조 설계
 
-    ```swift
-    protocol Employee {
-    }
+      ```swift
+      protocol Employee {
+      }
 
-    class EmployeeFacade {
-        private var cfo: CFO
-        private var coo: COO
-        private var cto: CTO
+      class EmployeeFacade {
+          private var cfo: CFO
+          private var coo: COO
+          private var cto: CTO
 
-        init(cfo: CFO, coo: COO, cto: CTO) {
-            self.cfo = cfo
-            self.coo = coo
-            self.cto = cto
-        }
-    }
+          init(cfo: CFO, coo: COO, cto: CTO) {
+              self.cfo = cfo
+              self.coo = coo
+              self.cto = cto
+          }
+      }
 
-    class CFO: Employee {
-        func calculatePay() {
+      class CFO: Employee {
+          func calculatePay() {
 
-        }
-    }
-    class COO: Employee {
-        func reportHours() {
+          }
+      }
+      class COO: Employee {
+          func reportHours() {
 
-        }
-    }
-    class CTO: Employee {
-        func save() {
-        }
-    }
-    ```
+          }
+      }
+      class CTO: Employee {
+          func save() {
+          }
+      }
+      ```
