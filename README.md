@@ -13,3 +13,5 @@
 ===========
 [설계원칙](https://github.com/HwangWoonChun/CleanArchitecture/blob/main/clean/clean_06.md)
 ===========
+[설계원칙 SRP 단일 책임 원칙](https://github.com/HwangWoonChun/CleanArchitecture/blob/main/clean/clean_07.md)
+===========
