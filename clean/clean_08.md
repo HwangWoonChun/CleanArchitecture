@@ -7,6 +7,7 @@
       
 # 사고 실험
   <img src="https://github.com/HwangWoonChun/CleanArchitecture/blob/main/clean/image/07/1.png" width = 300 height = 200>
+  
     * 처리과정을 클래스 단위로 분리 하고 클래스는 컴포넌트 단위로 분리한다. 
     * <I> : 인터페이스, <DS> : 데이터 구조
     * 검정 화살표 : 사용 관계
