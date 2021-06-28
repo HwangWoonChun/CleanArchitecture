@@ -6,7 +6,7 @@
       * 의존성을 체계화(나누어진 책임이 서로 영향을 끼치지 않도록 한다.)
       
 # 사고 실험
-  * <img src="https://github.com/HwangWoonChun/CleanArchitecture/blob/main/clean/image/07/1.png" width = 300 height = 200>
+  <img src="https://github.com/HwangWoonChun/CleanArchitecture/blob/main/clean/image/07/1.png" width = 300 height = 200>
     * 처리과정을 클래스 단위로 분리 하고 클래스는 컴포넌트 단위로 분리한다. 
     * <I> : 인터페이스, <DS> : 데이터 구조
     * 검정 화살표 : 사용 관계
@@ -14,4 +14,4 @@
     * 모든 의존성이 소스코드 의존성을 나타낸다.
       * 화살표가 A 클래스에서 B 클래스로 향한다면, A 클래스에서 B 클래스를 호출 한다는 의미
 
-  * <img src="https://github.com/HwangWoonChun/CleanArchitecture/blob/main/clean/image/07/2.png" width = 300 height = 300>
+  <img src="https://github.com/HwangWoonChun/CleanArchitecture/blob/main/clean/image/07/2.png" width = 300 height = 300>
