@@ -17,3 +17,5 @@
 ===========
 [설계원칙 OCP : 개방-폐쇄원칙](https://github.com/HwangWoonChun/CleanArchitecture/blob/main/clean/clean_08.md)
 ===========
+[설계원칙 LSP : 리스코프 치환원칙](https://github.com/HwangWoonChun/CleanArchitecture/blob/main/clean/clean_09.md)
+===========
